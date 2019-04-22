@@ -1,0 +1,29 @@
+{
+	"name": "waelwalid/laravel-database-sync",
+	"description": "Helper scripts to quickly synchronise a local MySQL database with a remote database, as well as prepare a local database for deployment to a remote server.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Wael Walid",
+			"email": "wael.walid91@gmail.com"
+		}
+	],
+	"require": {
+		"interconnectit/search-replace-db": "^3.1"
+	},
+	"scripts": {
+		"database-update" : [
+			"vendor/waelwalid/laravel-database-sync/database-update.sh"
+		],
+		"database-prepare" : [
+			"vendor/waelwalid/laravel-database-sync/database-prepare.sh"
+		],
+		"database-import" : [
+			"vendor/waelwalid/laravel-database-sync/database-import.sh"
+		],
+		"database-export" : [
+			"vendor/waelwalid/laravel-database-sync/database-export.sh"
+		]
+	},
+	"minimum-stability": "dev"
+}
