@@ -14,8 +14,7 @@ DB Sync provides scripts to quickly update a local MySQL development database wi
 
 ## Notes
 
-* These scripts require a .env config file in the project root. If you're using WordPress, you can use [waelwalid/wp-dotenv](https://github.com/waelwalid/wp-dotenv) to allow WordPress to share the same .env file and avoid maintaining two config files.
-* This script was designed with WordPress in mind, however it should work with other projects, such as Laravel 5.
+* These scripts require a .env config file in the project root . however it should work with other projects, such as Laravel 5.
 
 ## Installation
 
