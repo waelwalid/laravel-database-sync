@@ -89,3 +89,7 @@ See below for an explanation of each configuration option used within the .env f
 * ***DB_**** - Provides options to set the local database connection details.
 
 * ***REMOTE\_DB_**** - Provides options to set the remote staging or production database connection details.
+
+
+## Donate
+If you like this package, don't hesitate to give it a [Start](https://github.com/waelwalid/laravel-database-sync) or donate via [Paypal](paypal.me/WaelWalid) .
