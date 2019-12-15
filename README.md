@@ -92,4 +92,4 @@ See below for an explanation of each configuration option used within the .env f
 
 
 ## Donate
-If you like this package, don't hesitate to give it a [Start](https://github.com/waelwalid/laravel-database-sync) or donate via [Paypal](paypal.me/WaelWalid) .
+If you like this package, don't hesitate to give it a [Start](https://github.com/waelwalid/laravel-database-sync) or donate via [Paypal](https://paypal.me/WaelWalid) .
